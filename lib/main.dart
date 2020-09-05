@@ -7,6 +7,8 @@ import 'package:hi/screen/cst_screen.dart';
 import 'package:hi/screen/home_screen.dart';
 import 'package:hi/widget/BottomBar.dart';
 
+
+//메인점닷에다가 낙서하기.
 void main() {
   SystemChrome.setSystemUIOverlayStyle(
       SystemUiOverlayStyle(statusBarColor: Color(0xFFF9F9F9)));
